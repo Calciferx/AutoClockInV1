@@ -42,7 +42,7 @@
 
    因为前段时间看前端的时候学了点 PHP，所以正好拿这个来练练手。
 
-   GitHub: xxx
+   GitHub: https://github.com/Calciferx/AutoClockInV1
 
 3. 接入微信公众号
 
